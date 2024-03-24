@@ -2,9 +2,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import { watchFile, unwatchFile, readFileSync } from 'fs'
 
-global.owner = 
+global.owner = 96976647
  [
-  ['+91 6235 050 956', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
+  ['+228 96976647', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -36,7 +36,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 」`
-global.author = ''
+global.author = '᪣ᬼ⃟𝑫𝑬𝑽𝑰𝑳'𝑺✞𝄟⃝✘͢🥀⃟≛⃝𝑺𝑴𝑰𝑳𝑬ᬼ⃟✞
+      '
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
