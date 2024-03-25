@@ -2,11 +2,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import { watchFile, unwatchFile, readFileSync } from 'fs'
 
-global.owner = 
+global.owner = 96976647
  [
   ['+91 6235 050 956', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
 ]
-// Put your number here
+// Put your number here 96976647
 // [number, he creator/owner?, he developer?]
 
 global.mods = [] // Want some help?
